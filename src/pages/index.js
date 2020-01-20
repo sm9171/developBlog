@@ -11,7 +11,7 @@ function index() {
       <Info />
       <Helmet>
         <meta charSet="utf-8" />
-        <title>Home | Naccoon</title>
+        <title>홈</title>
       </Helmet>
     </div>
   )
