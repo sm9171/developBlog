@@ -13,14 +13,17 @@ export default function info() {
     <div className="container">
       <div className="my-5"></div>
       <div className="display-3" style={{ color: "#FF8A00" }}>
-        <span style = {{color : "white"}}>안녕하세요, 저는</span> <br />
+        <span style = {{color : "white"}}>안녕하세요, 저는 개발자</span> <br />
         " 나상민 "<span style = {{color : "white"}}> 입니다.</span>
       </div>
-      <div className="h1 code mt-4 mb-3">System.out.println {"(\""}</div>
+      <div className="h1 code mt-4 mb-3">async {"{"}</div>
       <div className="text-muted mx-5 my-4 h3 text-justify info">
-        건실한 30대 청년입니다.
+        A Passionate Front-end Developer, UI/UX Enthusiast, Android Geek and Web
+        Developer.
+        <br /> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+        eiusmod tempor incididunt ut labore et.
       </div>
-      <div className="h1 code mt-2 mb-3">{"\")"}</div>
+      <div className="h1 code mt-2 mb-3">{"}"}</div>
       <div className="h1 mt-5">
         <a className="mr-5 icon" href="https://twitter.com/Mr404Found">
           <Twitter />
