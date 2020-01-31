@@ -1,7 +1,11 @@
 - title: 내 블로그
-  subtitle: 블로그입니다.
+  subtitle: 공부한 것들 정리한 공간
   link: https://github.com/sm9171/nablog
 
-- title: Basic Music
-  subtitle: Basic Music Player That lets you to play music
-  link: https://github.com/Mr404Found/Basic-Music-Player
+- title: express로 SNS만들기
+  subtitle: Node.js express로 SNS만듬. 로그인(로컬,카카오), SNS게시판(이미지,좋아요), 팔로우 기능 추가함.
+  link: https://github.com/sm9171/NodeBird
+
+- title: 리액트 네이티브 프로젝트
+  subtitle: 엑스포 기반의 리액트 네이티브 프로젝트
+  link: https://github.com/sm9171/ReactNative
