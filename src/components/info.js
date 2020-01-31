@@ -21,7 +21,7 @@ export default function info() {
         A Passionate Front-end Developer, UI/UX Enthusiast, Android Geek and Web
         Developer.
         <br /> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-        eiusmod tempor incididunt ut labore et.
+        eiusmod tempor incididunt ut labore et
       </div>
       <div className="h1 code mt-2 mb-3">{"}"}</div>
       <div className="h1 mt-5">
